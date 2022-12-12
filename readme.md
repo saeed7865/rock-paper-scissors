@@ -2,7 +2,7 @@
 
 ## Game made using HTML, CSS and JavaScript.  
 
-click [here]( https://saeed7865.github.io/Digital-clock/) to view the digital clock.
+click [here]( https://saeed7865.github.io/rock-paper-scissors/) to view.
 
 ![Rock Paper Scissor Game](game.png)
 
